@@ -1,3 +1,4 @@
+package ejercicios
 fun main(){
     try{
         print("Enter a number:")

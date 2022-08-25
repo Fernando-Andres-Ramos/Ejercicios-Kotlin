@@ -1,3 +1,5 @@
+package ejercicios
+
 fun main(){
     println("Result: ${promedio()}")
 }

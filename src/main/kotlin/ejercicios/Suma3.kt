@@ -1,4 +1,4 @@
-
+package ejercicios
 fun main(){
     println("Result: ${suma3()}")
 }
