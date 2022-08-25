@@ -2,4 +2,4 @@
 
 ### Este repositorio tiene algunos ejercicios realizados en Kotlin.<br><br>
 
-#### Actualizado: 24/08/2022
+#### Actualizado: 25/08/2022
