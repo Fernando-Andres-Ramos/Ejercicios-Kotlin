@@ -1,3 +1,4 @@
+package ejercicios
 fun main(){
     print("Ingrese un numero:")
     val number:String? = readLine()
